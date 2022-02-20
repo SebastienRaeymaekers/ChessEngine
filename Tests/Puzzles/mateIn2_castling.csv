@@ -1,0 +1,20 @@
+C3LDZ,N2k1bnr/pp3ppp/8/5b2/1n1p1B2/8/PP2PPPP/R3KBNR w KQ - 3 10,e1c1 b4a2 c1d2 f8b4,946,76,98,512,mate mateIn2 opening queensideAttack short,https://lichess.org/TEvwwNPR#19
+9LFa6,N4b1r/p1p1kp2/4pp1p/1B6/4b3/8/PP3P1P/RNB1K2R w KQ - 0 17,e1g1 h8g8 c1g5 g8g5,1184,81,88,300,mate mateIn2 middlegame short,https://lichess.org/F32R0fa0#33
+1pIrM,r3k1r1/p1p1qp2/1p2b1p1/n6p/4Q3/2PB4/2P2PPP/3RR1K1 b q - 3 21,e8c8 e4a8 c8d7 d3b5,1862,77,86,105,doubleCheck mate mateIn2 middlegame queensideAttack short,https://lichess.org/pSb6NXeF/black#42
+zr2fX,r2qk2r/ppp2ppp/3p4/2b1p2n/2BnPP2/2NP3P/PPP3P1/R1BQK2R w KQkq - 3 10,e1g1 d4f3 g1h1 h5g3,1815,75,95,5210,doubleCheck kingsideAttack mate mateIn2 opening short,https://lichess.org/kjhbiYdz#19
+YpQqh,r1b1k2r/ppb2ppp/2p1p3/5Nq1/3PQ3/2P4P/PPB2PP1/3RR1K1 b kq - 6 20,e8g8 f5e7 g8h8 e4h7,1226,74,97,2181,discoveredAttack kingsideAttack mate mateIn2 middlegame short,https://lichess.org/oqBsdf2S/black#40
+DvrCz,r3k3/p1p3p1/1pP3p1/2b5/Q2NP3/4K3/PP3Pq1/R7 b q - 0 24,e8c8 a4a6 c8b8 a6b7,1169,77,93,1757,endgame mate mateIn2 queensideAttack short,https://lichess.org/Foi1kNan/black#48
+XtR9Q,r3k2r/pp1n1p2/2p1p2p/5bp1/3P4/4P1B1/P2KBPPP/2R1R3 b kq - 3 17,e8c8 c1c6 b7c6 e2a6,1189,117,70,776,bodenMate mate mateIn2 middlegame queensideAttack sacrifice short,https://lichess.org/ALOKPySz/black#34
+ELwWj,r3k3/pp1nqpb1/2p3p1/8/5BP1/5Q2/PPP1B3/2K4R b q - 2 21,e8c8 f3c6 b7c6 e2a6,1180,158,38,144,bodenMate master mate mateIn2 middlegame queensideAttack sacrifice short,https://lichess.org/MkCYHnmC/black#42
+c1OJQ,Qn2k2r/p4pp1/1q1bp1p1/8/3P4/3BP3/P2B1PPP/R3K2R w KQk - 2 18,e1c1 d6a3 c1c2 b6b2,1170,76,88,402,mate mateIn2 middlegame queensideAttack short,https://lichess.org/ze00fCw3#35
+0NplY,3r1q1r/pkp2p1p/2p2p2/7R/3bN3/1P2NQ2/P1PP2P1/R3K3 w Q - 1 19,e1c1 f8a3 c1b1 a3b2,1095,75,91,481,mate mateIn2 middlegame queensideAttack short,https://lichess.org/iqeYu7au#37
+zaghF,r3k1r1/pp1nbp1p/2p1pn2/8/P2q4/2NB1QBP/1PP2PP1/R3R1K1 b q - 1 17,e8c8 f3c6 b7c6 d3a6,1180,114,72,618,bodenMate mate mateIn2 middlegame queensideAttack sacrifice short,https://lichess.org/2QzZrb7U/black#34
+micYX,r3k2r/pp1n1pp1/2p2np1/q3p3/3P4/b1P1BQNP/PP3PP1/R3KB1R w KQkq - 1 13,e1c1 a5c3 c1b1 c3b2,1554,80,74,42,mate mateIn2 middlegame pin queensideAttack short,https://lichess.org/6fCoAKep#25
+LjS86,r1bqk2r/p3bppp/2p1n3/1p2pQ2/4N3/2PB4/P1PP1PPP/R1B2RK1 b kq - 4 12,e8g8 e4f6 g8h8 f5h7,1122,79,72,358,kingsideAttack mate mateIn2 opening short,https://lichess.org/O55hxxVw/black#24
+0uCn9,r5kr/pp2p1b1/1q1p4/2pPnbP1/4N3/5P2/PPPBQ2P/R3KBNR w KQ - 5 16,e1c1 e5d3 c1b1 b6b2,1522,76,92,1510,mate mateIn2 middlegame queensideAttack short,https://lichess.org/fpIzh0mk#31
+MLdUA,r3k2r/1p3p1p/p2p1B1b/4pP2/1PP5/q7/2K2PPP/3Q1B1R b kq - 3 21,e8g8 d1g4 h6g7 g4g7,1365,81,40,68,kingsideAttack mate mateIn2 middlegame short,https://lichess.org/eBsszmz6/black#42
+AhG2i,rn2k2r/2q2pp1/p3p1p1/2Np2N1/1P1P1n2/P7/2PQ1PPP/R3K2R w KQkq - 2 18,e1g1 f4e2 g1h1 c7h2,1345,76,85,185,discoveredAttack kingsideAttack mate mateIn2 middlegame short,https://lichess.org/eNauwPCr#35
+vnoDi,r3k3/p3q1p1/2p2n2/2P2p2/1P3Br1/5Q2/P4PPP/RN4K1 b q - 1 21,e8c8 f3c6 e7c7 c6c7,1222,79,92,1655,mate mateIn2 middlegame queensideAttack short,https://lichess.org/nq7O55Iv/black#42
+KCfTj,r1b1k2r/pppp1Npp/2n5/4p3/2B4q/5Q2/PPPP1b1P/RNB4K b kq - 0 10,e8g8 f7h6 g8h8 f3f8,1092,78,98,2011,deflection discoveredAttack doubleCheck kingsideAttack mate mateIn2 middlegame short,https://lichess.org/5aGYiZI2/black#20
+W6DEV,r3kb1r/2p2p2/p1P1p3/4P1p1/Pp1q4/8/1P1NQ1PP/R3K2R b KQkq - 1 20,e8c8 e2a6 c8b8 a6b7,1100,80,95,536,mate mateIn2 middlegame queensideAttack short,https://lichess.org/GEq3AYMj/black#40
+lo4i9,r3k2r/pp1nqppp/2p1pn2/5b2/1bB2B2/3P1QPP/PPP1NP2/2KR3R b kq - 4 13,e8c8 f3c6 b7c6 c4a6,1061,95,85,1074,bodenMate mate mateIn2 middlegame queensideAttack sacrifice short,https://lichess.org/LmkZcypC/black#26

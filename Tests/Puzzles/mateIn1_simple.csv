@@ -1,0 +1,20 @@
+jrJls,2bQ1k1r/1p3p2/p4b1p/4pNp1/2q5/8/PPP2PPP/1K1RR3 b - - 3 23,f6d8 d1d8,779,82,97,239,mate mateIn1 middlegame oneMove,https://lichess.org/gQa01loO/black#46
+rZoKr,5rk1/ppp5/2n4p/3b2p1/6R1/P1B1P2P/1Pq5/R4QK1 w - - 2 29,f1d1 c2f2,1467,79,81,132,mate mateIn1 middlegame oneMove,https://lichess.org/haKJxadR#57
+0urF2,2kr4/ppp2ppp/2n5/8/1P1PrP2/q4bP1/P3N2P/1R1Q1RBK w - - 1 18,f1f3 a3f3,922,80,96,245,hangingPiece kingsideAttack mate mateIn1 middlegame oneMove,https://lichess.org/Ea0aHiBh#35
+2HNcF,r3rk2/5ppQ/b1ppnq1p/p7/P1P5/2N5/1PB2PP1/R3R1K1 b - - 5 23,e6g5 h7h8,1031,76,92,123,mate mateIn1 middlegame oneMove,https://lichess.org/TQl97w12/black#46
+qFJW4,r5k1/ppp1nrpp/1b2Q3/8/6n1/B1N5/P5PP/R4RqK w - - 4 21,f1g1 g4f2,935,77,98,647,mate mateIn1 middlegame oneMove smotheredMate,https://lichess.org/4IhbR7Z4#41
+07FBh,r7/1Rrk1p1P/1R2bQn1/3pP3/3P1p2/p1P3PK/5q2/3B4 w - - 0 46,b6e6 f2g3,1378,75,80,255,master masterVsMaster mate mateIn1 middlegame oneMove,https://lichess.org/N6cvrT1h#91
+BOh5N,r1b1k2r/ppp2pp1/2p5/2b1q1Bp/4P1n1/2PP4/PP2BPPP/RN1Q1RK1 w kq - 1 10,d3d4 e5h2,1110,79,87,307,kingsideAttack mate mateIn1 oneMove opening,https://lichess.org/hBADdo6I#19
+8K7dF,5Nr1/1p5k/3p1Q2/p2Pn3/4q3/1P6/P5RP/7K b - - 3 38,g8f8 f6g7,1374,78,85,113,endgame master mate mateIn1 oneMove,https://lichess.org/dVBFepDr/black#76
+pfcY2,1rq4r/pk3ppp/Q1p5/8/R7/5P2/PPP4P/2KR4 b - - 14 24,b7a8 a6a7,969,76,100,457,endgame mate mateIn1 oneMove queensideAttack,https://lichess.org/iq1SsukA/black#48
+1bg7G,r4rk1/2q4p/2p5/P1bp1pp1/4pNn1/2B1P2P/P1P2PP1/R2Q1RK1 w - - 0 18,f4d5 c7h2,1313,77,85,102,mate mateIn1 middlegame oneMove,https://lichess.org/6jomSlbK#35
+Rsm4I,3r1Q1k/6p1/7p/1p2q3/8/1P1B1R2/2P3PP/7K b - - 0 33,d8f8 f3f8,600,90,68,137,endgame mate mateIn1 oneMove,https://lichess.org/cBl2WADX/black#66
+lq6Om,5Q1k/1b2q1pp/p3B3/1pp1P3/8/2N5/PP4PP/5R1K b - - 0 28,e7f8 f1f8,629,104,84,148,backRankMate endgame mate mateIn1 oneMove,https://lichess.org/Hcocq7AO/black#56
+WOhqq,8/1b4k1/p1q2rp1/8/2PQ4/1P1p3P/1P3RP1/7K w - - 2 41,f2f6 c6g2,1000,79,81,84,endgame mate mateIn1 oneMove,https://lichess.org/s4VKQPNb#81
+1ZxkV,r1bqkb1r/p1p2ppp/2p5/3pN3/4n3/5Q2/PPPP1PPP/RNB1K2R b KQkq - 1 7,f8d6 f3f7,1102,79,100,66,attackingF2F7 mate mateIn1 oneMove opening,https://lichess.org/8mudJHJO/black#14
+ozS9D,6k1/ppp2pp1/1nn2q1p/3p4/5B2/1PPB1P2/P1P3PP/4Q1K1 b - - 0 21,f6f4 e1e8,653,89,60,146,endgame master mate mateIn1 oneMove,https://lichess.org/r5n4dpAN/black#42
+8xWfh,r4rk1/2p3pp/p2p4/1p1P1b2/5Q2/P1P1P2P/BP4q1/2KR3R w - - 0 19,h1g1 g2c2,1323,149,55,14,mate mateIn1 middlegame oneMove,https://lichess.org/nMPORUnV#37
+GLtpk,r6r/p1p1kpQ1/3p2p1/2p5/4PP2/5Pq1/PPP1R3/R1B3K1 w - - 2 22,e2g2 g3e1,1195,75,94,1852,mate mateIn1 middlegame oneMove,https://lichess.org/fGjY3KEU#43
+kOz0U,8/Q4kp1/2qB1p2/pp2p2p/n3P2P/5P2/2P3PK/8 b - - 5 36,f7e6 a7e7,805,75,100,281,endgame master mate mateIn1 oneMove,https://lichess.org/jS8203Ng/black#72
+BEUkI,r1bq1r1k/pp3pR1/1b1p3p/2p2P2/2BBP2n/2N5/PPPQ2PP/R5K1 b - - 0 15,c5d4 d2h6,1080,84,63,46,kingsideAttack mate mateIn1 middlegame oneMove,https://lichess.org/qUYVfwWj/black#30
+EAnMf,3R4/5r1k/6p1/4B3/3P1PK1/4r3/8/8 b - - 1 42,e3e1 d8h8,959,118,33,20,endgame master mate mateIn1 oneMove,https://lichess.org/7KoQ0ISo/black#84
