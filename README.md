@@ -2,10 +2,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h1 align="center">Sudoku Solver</h1>
+  <h1 align="center">Chess Engine</h1>
 
   <p align="center">
-    Given a 9x9 2D array, fill in the grid according to the rules of sudoku.
+    Given a chess board, find the best move using the negamax algorithm.
     <br />
     <br />
   </p>
