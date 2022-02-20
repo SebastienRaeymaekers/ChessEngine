@@ -205,7 +205,7 @@ A PV is represented by the `PrincipalVariation` class (in [PrincipalVariation.hp
 The main interface is the following:
 
 ```c++
-using MoveIter = /* your iterator type here */;
+using MoveIter = ... ;
 
 std::size_t PrincipalVariation::length() const;
 MoveIter PrincipalVariation::begin() const;
